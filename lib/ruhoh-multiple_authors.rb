@@ -1,0 +1,1 @@
+require 'ruhoh/multiple_authors/plugin'
