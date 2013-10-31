@@ -58,12 +58,13 @@ If you specify an hash in your page or if the config file doesn't contain the na
 
 #### Install it
 
-chdir to your ruhoh blog repository path
+Add in your `Gemfile`:
 
-`git submodule add git://github.com/mikamai/ruhoh-multiple_authors.git plugins/multiple_authors`
+```ruby
+gem 'ruhoh-multiple_authors', github: 'mikamai/ruhoh-multiple_authors', branch: 'gem'
+```
 
-or download files and put it to `your-blog-path/plugins/multiple_authors`
-
+and do a bundle
 
 #### Fill your authors info
 
