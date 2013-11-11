@@ -1,7 +1,7 @@
 Ruhoh Multiple Authors
 ======================
 
-Multiple Authors plugin for Ruhoh
+Multiple Authors plugin for Ruhoh.
 
 ### Why I need it ?
 
@@ -55,6 +55,10 @@ author: john
 If you specify an hash in your page or if the config file doesn't contain the name you have specified, it will use the default behavior (without breaking anything).
 
 ### How to use it ?
+
+#### Requirements
+
+Just Ruhoh. We tested it with ruhoh 2.5
 
 #### Install it
 
